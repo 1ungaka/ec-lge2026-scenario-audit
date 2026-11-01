@@ -1,0 +1,13 @@
+check,passed,detail
+exactly the 33 municipalities,True,"missing [], unexpected []"
+registered voters match the turnout report,True,33 of 33 match
+votes cast match the turnout report,True,33 of 33 match
+turnout matches the official percentage,True,largest gap 0.00e+00 points
+municipal registered voters sum to the provincial total,True,3253307 against 3253307
+provincial PR votes per party match the results summary,True,59 of 59 match
+provincial PR spoilt votes match the results summary,True,37034 against 37034
+a results summary exists for every municipality,True,missing []
+municipal PR votes per party match the municipal summaries,True,differences in []
+municipal PR totals match the municipal summaries,True,differences in []
+party shares sum to 100,True,largest gap 1.42e-14 points
+no repeated PR rows,True,0 repeated district-party rows

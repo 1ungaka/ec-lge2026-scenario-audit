@@ -1,0 +1,34 @@
+municipality_code,category,district_code,district_name,name_2016,name_2021,name_2026,renamed_2021_2026
+BUF,metro,BUF,Metropolitan municipality,Buffalo City,Buffalo City,Buffalo City,False
+EC101,local,DC10,Sarah Baartman,Camdeboo,Dr. Beyers Naude,Dr. Beyers Naude,False
+EC102,local,DC10,Sarah Baartman,Blue Crane Route,Blue Crane Route,Blue Crane Route,False
+EC104,local,DC10,Sarah Baartman,Makana,Makana,Makana,False
+EC105,local,DC10,Sarah Baartman,Ndlambe,Ndlambe,Ndlambe,False
+EC106,local,DC10,Sarah Baartman,Sundays River Valley,Sundays River Valley,Sundays River Valley,False
+EC108,local,DC10,Sarah Baartman,Kouga,Kouga,Kouga,False
+EC109,local,DC10,Sarah Baartman,Kou-Kamma,Kou-Kamma,Kou-Kamma,False
+EC121,local,DC12,Amathole,Mbhashe,Mbhashe,Mbhashe,False
+EC122,local,DC12,Amathole,Mnquma,Mnquma,Mnquma,False
+EC123,local,DC12,Amathole,Great Kei,Great Kei,Great Kei,False
+EC124,local,DC12,Amathole,Amahlathi,Amahlathi,Amahlathi,False
+EC126,local,DC12,Amathole,Ngqushwa,Ngqushwa,Ngqushwa,False
+EC129,local,DC12,Amathole,Nkonkobe/Nxuba,Raymond Mhlaba,Raymond Mhlaba,False
+EC131,local,DC13,Chris Hani,Inxuba Yethemba,Inxuba Yethemba,Inxuba Yethemba,False
+EC135,local,DC13,Chris Hani,Intsika Yethu,Intsika Yethu,Intsika Yethu,False
+EC136,local,DC13,Chris Hani,Emalahleni,Emalahleni,Emalahleni,False
+EC137,local,DC13,Chris Hani,Engcobo,Engcobo,Dr. A.B. Xuma,True
+EC138,local,DC13,Chris Hani,Sakhisizwe,Sakhisizwe,Sakhisizwe,False
+EC139,local,DC13,Chris Hani,Tsolwana/Inkwanca/Lukanji,Enoch Mgijima,Enoch Mgijima,False
+EC141,local,DC14,Joe Gqabi,Elundini,Elundini,Elundini,False
+EC142,local,DC14,Joe Gqabi,Senqu,Senqu,Senqu,False
+EC145,local,DC14,Joe Gqabi,Maletswai/Gariep,Walter Sisulu,Walter Sisulu,False
+EC153,local,DC15,O R Tambo,Ngquza Hill,Ngquza Hill,Ngquza Hill,False
+EC154,local,DC15,O R Tambo,Port St Johns,Port St Johns,Port St Johns,False
+EC155,local,DC15,O R Tambo,Nyandeni,Nyandeni,Nyandeni,False
+EC156,local,DC15,O R Tambo,Mhlontlo,Mhlontlo,Kumkani Mhlontlo,True
+EC157,local,DC15,O R Tambo,King Sabata Dalindyebo,King Sabata Dalindyebo,King Sabata Dalindyebo,False
+EC441,local,DC44,Alfred Nzo,Matatiele,Matatiele,Matatiele,False
+EC442,local,DC44,Alfred Nzo,Umzimvubu,Umzimvubu,Umzimvubu,False
+EC443,local,DC44,Alfred Nzo,Mbizana,Winnie Madikizela-Mandela,Winnie Madikizela-Mandela,False
+EC444,local,DC44,Alfred Nzo,Ntabankulu,Ntabankulu,Ntabankulu,False
+NMA,metro,NMA,Metropolitan municipality,Nelson Mandela Bay,Nelson Mandela Bay,Nelson Mandela Bay,False
