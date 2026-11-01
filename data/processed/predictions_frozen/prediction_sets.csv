@@ -1,0 +1,10 @@
+prediction_set,source,covers,description
+baseline_no_change,baseline,turnout and party support,Every municipality repeats its 2021 result
+baseline_relative_persistence,baseline,turnout,"Provincial mean turnout held at 2021, with the average 2016 and 2021 relative pattern"
+baseline_trend,baseline,turnout and party support,Each municipality continues its own 2016-2021 change
+baseline_uniform_swing,baseline,turnout and party support,2016-2021 provincial swing added to 2021
+team_party_trend,team,party support,Team scenario: 2016-2021 party trend continues
+team_party_validated,team,party support,Team scenario: validated status quo party support
+team_turnout_partial_recovery,team,turnout,Team scenario: half of the 2021 drop regained
+team_turnout_repeat2021,team,turnout,Team scenario: repeat of 2021 turnout conditions
+team_turnout_return2016,team,turnout,Team scenario: return to 2016 participation
