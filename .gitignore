@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+
+# Raw IEC files are downloaded, not redistributed. See data/raw/README.md.
+data/raw/*
+!data/raw/README.md
+!data/raw/MANIFEST.csv
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

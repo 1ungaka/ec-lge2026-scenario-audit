@@ -1,0 +1,2 @@
+# Data files are hashed, so git must never rewrite their line endings.
+data/** -text
