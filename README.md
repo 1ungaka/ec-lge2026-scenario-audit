@@ -21,7 +21,8 @@ Every prediction set, metric, comparison and hypothesis was fixed before results
 - Tag: [`v0.1-preregistration`](https://github.com/1ungaka/ec-lge2026-scenario-audit/releases/tag/v0.1-preregistration)
 
 Git commit dates are set by the author's machine, so the time the tag reached GitHub is the
-better evidence of when it was made.
+better evidence of when it was made. The tag was re-created on 2 November 2026 with every file
+unchanged, and [docs/REPORT.md](docs/REPORT.md) records why.
 
 ## What is being compared
 
